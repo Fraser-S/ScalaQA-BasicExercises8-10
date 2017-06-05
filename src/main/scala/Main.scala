@@ -10,5 +10,4 @@ object Main {
   def main(args : Array[String]) : Unit = {
     println(addition(2,5))
   }
-
 }
