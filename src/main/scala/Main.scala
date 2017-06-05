@@ -8,9 +8,11 @@ object Main {
 
     var num3 : Int = 0
 
-    if(add == true){
+    if(add){
+      //if add is true add the numbers
       num3 = num1 + num2
     } else {
+      //if add is false multiply them
       num3 = num1 * num2
     }
     num3
